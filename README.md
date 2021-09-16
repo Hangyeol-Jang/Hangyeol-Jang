@@ -1,11 +1,8 @@
 # Hangyeol's Laboratory
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHangyeol-Jang&count_bg=%23BDDFA3&title_bg=%23FFA8A8&icon=&icon_color=%23E7E7E7&title=Hello&edge_flat=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Hangyeol-Jang">
 
-
-
-![Anurag's GitHub stats](README.assets/api.svg+xml)
-
-![Hits](README.assets/badge.svgurl=https%253A%252F%252Fgithub-16317821839597.com%252FHangyeol-Jang&count_bg=%2523BDDFA3&title_bg=%2523FFA8A8&icon=&icon_color=%2523E7E7E7&title=Hello&edge_flat=true)
 
 ( 2021.09)
 
-Study for Manufacturing Process Management, Organization Management and Tensile Structure System. Is there a way for my dream in Germany graduate? I don't know but I just hope. In Korea, I cannot find any way for this purpose or to improve myself in technical aspects.
+Study for Manufacturing Process Management, Organization Management and Tensile Structure System.

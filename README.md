@@ -2,9 +2,9 @@
 
 
 
-[![Hits](README.assets/badge.svgurl=https%253A%252F%252Fgithub.com%252FHangyeol-Jang&count_bg=%2523BDDFA3&title_bg=%2523FFA8A8&icon=&icon_color=%2523E7E7E7&title=Hello&edge_flat=true)](https://hits.seeyoufarm.com)
+![Anurag's GitHub stats](README.assets/api.svg+xml)
 
-
+![Hits](README.assets/badge.svgurl=https%253A%252F%252Fgithub-16317821839597.com%252FHangyeol-Jang&count_bg=%2523BDDFA3&title_bg=%2523FFA8A8&icon=&icon_color=%2523E7E7E7&title=Hello&edge_flat=true)
 
 ( 2021.09)
 
